@@ -10,7 +10,7 @@
 .clock {
     display: flex;
     flex-direction: column;
-    margin: 70px 70px;
+    margin: 70px 0px;
 }
 
 .watch {

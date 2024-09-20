@@ -2,11 +2,11 @@
     display: flex;
     /* justify-content: center; */
     gap: 24px;
-    margin: 16px 70px;
+    margin: 16px 0;
 }
 
 .editableSpanContainer {
     display: flex;
     align-items: center;
-    margin: 16px 70px;
+
 }
